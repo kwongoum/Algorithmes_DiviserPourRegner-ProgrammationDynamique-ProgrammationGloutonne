@@ -1,2 +1,2 @@
-# IHDCB331_PROJECT
-IHDCB331_PROJECT
+# Algorithme_PROJECT
+# diviser pour regner,  programmation dynamique, programmation gloutonne.
